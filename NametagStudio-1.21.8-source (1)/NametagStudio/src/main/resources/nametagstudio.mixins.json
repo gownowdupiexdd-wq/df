@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "pl.dwudziesty.nametagstudio.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityRendererMixin"],
+  "injectors": { "defaultRequire": 0 }
+}
